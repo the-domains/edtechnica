@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[edtechnica]]></title>
-        <description><![CDATA[edtechnica]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Education + Technology]]></title>
+        <description><![CDATA[Education + Technology]]></description>
+        <link>https://thegrid.ai/edtechnica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 18:04:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 18:14:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edtechnica/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a817d70-1d7c-4248-b7ae-847782e050d9.jpg">]]></description>
+            <link>https://thegrid.ai/edtechnica/could-this-digital-math-tool-change-instruction-for-the-bett/index.html</link>
+            <guid isPermaLink="false">6f1557ff-0c28-49d4-b0c2-051304ed5efd</guid>
+            <pubDate>Sun, 24 Apr 2016 18:13:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd50555c-9f0c-4ed8-9bad-4cd093cadade.jpg">]]></description>
-            <link>undefinedthe-untold-story-of-magic-leap-the-worlds-most-secretive-s/index.html</link>
+            <link>https://thegrid.ai/edtechnica/the-untold-story-of-magic-leap-the-worlds-most-secretive-s/index.html</link>
             <guid isPermaLink="false">b22e3a50-530d-48a9-bf9a-89f0ad86bff7</guid>
             <pubDate>Sun, 24 Apr 2016 18:04:19 GMT</pubDate>
         </item>
