@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Could This Digital Math Tool Change Instruction For the Better?
-datePublished: '2016-04-24T18:13:18.234Z'
-dateModified: '2016-04-24T18:13:08.352Z'
+datePublished: '2016-04-24T18:47:19.931Z'
+dateModified: '2016-04-24T18:13:26.515Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-could-this-digital-math-tool-change-instruction-for-the-bett.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-could-this-digital-math-tool-change-instruction-for-the-bett.md
-published: true
 url: could-this-digital-math-tool-change-instruction-for-the-bett/index.html
 _type: Article
 
